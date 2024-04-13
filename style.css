@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    width: 50%;
+    height: 30%;
+    border: 30px;px;
+    background-color: black;
+}
+.container1{
+    text-align: center;
+    margin-left: 30%;
+    width: 40%;
+    height: 30%S;
+    text-align: center;
+    background-color: white;
+    border: 50%;
+}
+.h1{
+    color: white
+}
+.h2{
+    color: black;
+}
